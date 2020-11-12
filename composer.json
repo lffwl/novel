@@ -2,7 +2,7 @@
     "name": "lffwl/novel",
     "description": "小说网站，小说抓取，目录抓取，过滤广告",
     "type": "library",
-    "license": "MIT",
+    "license": "Apache-2.0",
     "authors": [
         {
             "name": "lffwl",
