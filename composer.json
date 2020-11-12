@@ -1,0 +1,20 @@
+{
+    "name": "lffwl/novel",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "lffwl",
+            "email": "1134878233@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Lffwl\\Novel\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=7.0"
+    }
+}

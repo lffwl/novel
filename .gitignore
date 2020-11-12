@@ -1,2 +1,9 @@
 /.idea
 .idea
+/vendor/
+test.php
+404.html
+composer.lock
+index.html
+.user.ini
+.htaccess
