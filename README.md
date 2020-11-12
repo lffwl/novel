@@ -35,4 +35,4 @@ $catalogData = $NovelRead->catalog($data['catalog']);
 
 ## License
 
-MIT
+Apache-2.0
